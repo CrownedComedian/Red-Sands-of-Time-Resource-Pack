@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/quartz_pillar",
+  "overrides": [
+    { "predicate": { "custom_model_data": 776801 }, "model": "rsot:block/red_key_pedestal" },
+    { "predicate": { "custom_model_data": 776802 }, "model": "rsot:block/yellow_key_pedestal" },
+    { "predicate": { "custom_model_data": 776803 }, "model": "rsot:block/green_key_pedestal" },
+    { "predicate": { "custom_model_data": 776804 }, "model": "rsot:block/lapis_key_pedestal" }
+  ]
+}
