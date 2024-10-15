@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "textures": [
+          "rsot:trims/items/helmet_trim",
+          "rsot:trims/items/boots_trim"
+      ],
+      "palette_key": "minecraft:trims/color_palettes/trim_palette",
+      "permutations": {
+        "red_rabbits": "rsot:trims/color_palettes/red_rabbits",
+        "orange_ocelots": "rsot:trims/color_palettes/orange_ocelots",
+        "yellow_yaks": "rsot:trims/color_palettes/yellow_yaks",
+        "lime_llamas": "rsot:trims/color_palettes/lime_llamas",
+        "green_geckos": "rsot:trims/color_palettes/green_geckos",
+        "cyan_coyotes": "rsot:trims/color_palettes/cyan_coyotes",
+        "aqua_axolotls": "rsot:trims/color_palettes/aqua_axolotls",
+        "blue_bats": "rsot:trims/color_palettes/blue_bats",
+        "purple_pandas": "rsot:trims/color_palettes/purple_pandas",
+        "pink_parrots": "rsot:trims/color_palettes/pink_parrots"
+      }
+    }
+  ]
+}

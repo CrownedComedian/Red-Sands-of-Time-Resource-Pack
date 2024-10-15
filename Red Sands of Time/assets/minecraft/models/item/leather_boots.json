@@ -1,0 +1,129 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "minecraft:item/leather_boots_quartz_trim",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "minecraft:item/leather_boots_iron_trim",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "minecraft:item/leather_boots_netherite_trim",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "minecraft:item/leather_boots_redstone_trim",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "minecraft:item/leather_boots_copper_trim",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "minecraft:item/leather_boots_gold_trim",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "minecraft:item/leather_boots_emerald_trim",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "rsot:item/leather_boots_red_rabbits_trim",
+      "predicate": {
+        "trim_type": 0.776801
+      }
+    },
+    {
+      "model": "rsot:item/leather_boots_orange_ocelots_trim",
+      "predicate": {
+        "trim_type": 0.776802
+      }
+    },
+    {
+      "model": "rsot:item/leather_boots_yellow_yaks_trim",
+      "predicate": {
+        "trim_type": 0.776803
+      }
+    },
+    {
+      "model": "rsot:item/leather_boots_lime_llamas_trim",
+      "predicate": {
+        "trim_type": 0.776804
+      }
+    },
+    {
+      "model": "rsot:item/leather_boots_green_geckos_trim",
+      "predicate": {
+        "trim_type": 0.776805
+      }
+    },
+    {
+      "model": "rsot:item/leather_boots_cyan_coyotes_trim",
+      "predicate": {
+        "trim_type": 0.776806
+      }
+    },
+    {
+      "model": "rsot:item/leather_boots_aqua_axolotls_trim",
+      "predicate": {
+        "trim_type": 0.776807
+      }
+    },
+    {
+      "model": "rsot:item/leather_boots_blue_bats_trim",
+      "predicate": {
+        "trim_type": 0.776808
+      }
+    },
+    {
+      "model": "rsot:item/leather_boots_purple_pandas_trim",
+      "predicate": {
+        "trim_type": 0.776809
+      }
+    },
+    {
+      "model": "rsot:item/leather_boots_pink_parrots_trim",
+      "predicate": {
+        "trim_type": 0.776810
+      }
+    },
+    {
+      "model": "minecraft:item/leather_boots_diamond_trim",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "minecraft:item/leather_boots_lapis_trim",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "minecraft:item/leather_boots_amethyst_trim",
+      "predicate": {
+        "trim_type": 1.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/leather_boots",
+    "layer1": "minecraft:item/leather_boots_overlay"
+  }
+}
