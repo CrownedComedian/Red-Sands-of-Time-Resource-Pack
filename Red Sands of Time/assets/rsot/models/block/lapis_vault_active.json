@@ -2,7 +2,7 @@
   "parent": "minecraft:block/template_vault",
   "textures": {
     "bottom": "minecraft:block/vault_bottom",
-    "front": "rsot:block/lapis_vault_front_on",
+    "front": "rsot:block/lapis_vault_front_on_open",
     "side": "rsot:block/lapis_vault_side_on",
     "top": "rsot:block/lapis_vault_top"
   }
