@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "rsot:block/glass_4x4",
+    "side": "rsot:block/glass_1x4"
+  }
+}
