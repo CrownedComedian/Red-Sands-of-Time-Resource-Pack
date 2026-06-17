@@ -1,11 +1,7 @@
 {
   "sources": [
     {
-      "type": "paletted_permutations",
-      "textures": [
-          "rsot:trims/items/helmet_trim",
-          "rsot:trims/items/boots_trim"
-      ],
+      "type": "minecraft:paletted_permutations",
       "palette_key": "minecraft:trims/color_palettes/trim_palette",
       "permutations": {
         "red_rabbits": "rsot:trims/color_palettes/red_rabbits",
@@ -18,7 +14,11 @@
         "blue_bats": "rsot:trims/color_palettes/blue_bats",
         "purple_pandas": "rsot:trims/color_palettes/purple_pandas",
         "pink_parrots": "rsot:trims/color_palettes/pink_parrots"
-      }
+      },
+      "textures": [
+        "rsot:trims/items/helmet_trim",
+        "rsot:trims/items/boots_trim"
+      ]
     }
   ]
 }

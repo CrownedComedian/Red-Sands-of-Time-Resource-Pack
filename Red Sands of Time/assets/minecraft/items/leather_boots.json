@@ -226,6 +226,19 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "rsot:item/leather_boots_aqua_axolotls_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "rsot:aqua_axolotls"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "rsot:item/leather_boots_blue_bats_trim",
           "tints": [
             {
